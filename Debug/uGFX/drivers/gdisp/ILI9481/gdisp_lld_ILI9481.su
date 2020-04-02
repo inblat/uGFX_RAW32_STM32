@@ -1,0 +1,8 @@
+gdisp_lld_ILI9481.c:182:17:gdisp_lld_write_color	0	static
+gdisp_lld_ILI9481.c:191:17:gdisp_lld_read_start	16	static
+gdisp_lld_ILI9481.c:197:20:gdisp_lld_read_color	0	static
+gdisp_lld_ILI9481.c:203:17:gdisp_lld_read_stop	0	static
+gdisp_lld_ILI9481.c:68:16:gdisp_lld_init	32	static
+gdisp_lld_ILI9481.c:210:16:gdisp_lld_control	24	static
+gdisp_lld_ILI9481.c:185:17:gdisp_lld_write_stop	0	static
+gdisp_lld_ILI9481.c:178:17:gdisp_lld_write_start	4	static

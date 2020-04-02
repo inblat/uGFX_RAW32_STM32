@@ -1,0 +1,6 @@
+main.h:27:6:clockConfig	4	static
+main.h:67:6:initFSMC	16	static
+main.c:9:15:gfxSystemTicks	0	static
+main.c:14:15:gfxMillisecondsToTicks	0	static
+main.c:54:5:main	48	static
+main.c:125:6:SysTick_Handler	0	static
